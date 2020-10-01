@@ -7,12 +7,12 @@ header:
 ---
 
 
- <img src="assets/images/logo_genpop.png" width="250" style="vertical-align:middle">
+ <img src="assets/images/logo_genpop.png" width="250"  align="middle">
 
 
 GENPOP is a project funded by the European Research Council.
-### Principal investigator: [Nicola Barban](www.nicolabarban.com)
-<img src="assets/images/LOGO_ERC.png" width="200" style="vertical-align:middle">
+### Principal investigator: [Nicola Barban](http://www.nicolabarban.com)
+<img src="assets/images/LOGO_ERC.png" width="200" align="middle">
 
 
 ## Project description
