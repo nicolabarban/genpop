@@ -10,7 +10,7 @@ header: "Genes, genealogies and the evolution of demographic change and social i
 GENPOP is a project funded by the European Research Council.
 ### Principal investigator: [Nicola Barban](www.nicolabarban.com)
 
- ![img](assets/images/logo_genpop.png = 250x250)
+ <img src="assets/images/logo_genpop.png" width="100">
 
 ## Project description
 
@@ -27,5 +27,4 @@ This is the first comprehensive study that combines historical and contemporaneo
 
 Existing research focuses on recent factors to explain contemporaneous population trends, missing the long-view of demographic changes. As population processes (fertility and mortality) evolve slowly across generations, we urgently need to adopt a long-term perspective to comprehend demographic phenomena and design effective policies.
 
-
-![img](assets/images/LOGO_ERC.png = 250x250)
+<img src="assets/images/LOGO_ERC.png" width="100">
