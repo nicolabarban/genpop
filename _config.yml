@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Nicola Barban"
+title                    : "GENPOP"
 title_separator          : "-"
-name                     : "Nicola Barban"
-description              : "Professor, University of Bologna"
+name                     : "GENPOP"
+description              : "Genes, genealogies and the evolution of demographic change and social inequality"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  "/genpop"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

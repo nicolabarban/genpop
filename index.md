@@ -4,13 +4,15 @@ author_profile: true
 header:
   image: "/assets/images/header_genpop.png"
 ---
+
  # Genes, genealogies and the evolution of demographic change and social inequality
- <img src="assets/images/logo_genpop.png" width="100">
+
+ <img src="assets/images/logo_genpop.png" width="250" class="center">
 
 
 GENPOP is a project funded by the European Research Council.
 ### Principal investigator: [Nicola Barban](www.nicolabarban.com)
-<img src="assets/images/LOGO_ERC.png" width="100">
+<img src="assets/images/LOGO_ERC.png" width="200" class="center">
 
 
 ## Project description
