@@ -1,9 +1,10 @@
 ---
 layout: single
 author_profile: true
-header:
+header: "Genes, genealogies and the evolution of demographic change and social inequality"
   image: "/assets/images/header_genpop.png"
 ---
+
 
 
 GENPOP is a project funded by the European Research Council.
