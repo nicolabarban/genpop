@@ -19,7 +19,7 @@ header:
 ### Responsabilities
 *	Statistical analysis of genealogy and historical micro-census data
 *	Analysis of inequality in longevity;
-*	Development of theoretical and empirical model for the analysis of intergenerational  correlation of fertility and  mortality
+*	Development of theoretical and empirical models for the analysis of intergenerational  correlation of fertility and  mortality
 
 ### Selection criteria
 Applicants should hold a PhD, (or be close to completion), in statistics,  sociology, demography, economics, computer science or another relevant discipline. Training and expertise in analysing secondary data, strong quantitative analysis skills are essential. Candidates will be required to show evidence of developing a track record of excellent quality publications in peer-reviewed academic journals. *Previous experience or training on working with large datasets is desirable.*  
