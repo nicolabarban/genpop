@@ -6,7 +6,7 @@ header:
   image: "/assets/images/header_genpop.png"
 ---
 
-# We are hiring!
+# :boom: We are hiring!
 ​
 * 2 Postdocs (1 year, renewable up to 3 years),
 * 1 Research Assistant for 1 year (pre-doc).
@@ -27,9 +27,9 @@ Applicants should hold a PhD, (or be close to completion), in statistics,  socio
 ### Salary
 € 26,174
 
-*more details here: [link]{assegno_Multigenerational.pdf}*
+*more details here: [link](assegno_Multigenerational.pdf)*
 ---
-## [Postdoc Position 2: "Statistical Methods for genealogy data and micro-data linkage"]{assegno_Methods.pdf}
+## [Postdoc Position 2: "Statistical Methods for genealogy data and micro-data linkage"](assegno_Methods.pdf)
 
 ### Responsabilities
 *	Development and application of statistical methods for the analysis of internet-based genealogy data;
@@ -42,10 +42,10 @@ Applicants should hold a PhD, (or be close to completion), in statistics,  socio
 ### Salary
 € 26,174
 
-*more details here: [link]{assegno_Methods.pdf}*
+*more details here: [link](assegno_Methods.pdf)*
 ---
 
-## [Research Assistant Position: "Genes, Genealogy and the evolution of demographic change and social inequality"]{assegno_RA.pdf}
+## [Research Assistant Position: "Genes, Genealogy and the evolution of demographic change and social inequality"](assegno_RA.pdf)
 
 ### Responsabilities
 *	Data cleaning and preparation;
@@ -61,5 +61,5 @@ Applicants should hold a Master Degree, (or be close to completion), in statisti
 ### Salary
 € 19,367
 
-*more details here: [link]{assegno_RA.pdf}*
+*more details here: [link](assegno_RA.pdf)*
 ---
