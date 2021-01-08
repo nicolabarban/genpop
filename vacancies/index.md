@@ -11,7 +11,7 @@ header:
 * 2 Postdocs (1 year, renewable up to 3 years),
 * 1 Research Assistant for 1 year (pre-doc).
 
-## Application [here:]{https://bandi.unibo.it/ricerca/assegni-ricerca?str=stat}
+## Application [here:](https://bandi.unibo.it/ricerca/assegni-ricerca?str=stat)
 ---
 
 ## [Postdoc Position 1: "Multigenerational transmission of demographic behavior"](assegno_Multigenerational.pdf)
