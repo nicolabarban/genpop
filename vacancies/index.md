@@ -14,7 +14,7 @@ header:
 ## Application [here:]{https://bandi.unibo.it/ricerca/assegni-ricerca?str=stat}
 ---
 
-## [Postdoc Position 1: "Multigenerational transmission of demographic behavior"]{assegno_Multigenerational.pdf}
+## [Postdoc Position 1: "Multigenerational transmission of demographic behavior"](assegno_Multigenerational.pdf)
 
 ### Responsabilities
 *	Statistical analysis of genealogy and historical micro-census data
