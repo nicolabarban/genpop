@@ -37,6 +37,6 @@ header:
 
 ## Andrea Colasurdo
 
-## Giulia Corti
+## [Giulia Corti](https://ced.cat/directori/giulia-corti/)
 
-## Marco Cozzani
+##[Marco Cozzani](https://sites.google.com/view/marcocozzani/home-page)
