@@ -7,7 +7,7 @@ header:
 ---
 # Researchers
 ---
-## [Nicola Barban](www.nicolabarban.com)
+## [Nicola Barban](https://www.nicolabarban.com)
 
 ## [Saverio Minardi](https://www.unibo.it/sitoweb/saverio.minardi2)
 
