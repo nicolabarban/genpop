@@ -7,24 +7,28 @@ header:
 ---
 # Researchers
 ---
-## Nicola Barban
+## [Nicola Barban](www.nicolabarban.com)
 
-## Giulia Corti
+## [Saverio Minardi](https://www.unibo.it/sitoweb/saverio.minardi2)
 
-## Saverio Minardi
+## [Alex Mas-Sandoval](https://www.unibo.it/sitoweb/alex.massandoval)
 
-## Alex Mas-Sandoval
+## [Federica Querin](https://www.unibo.it/sitoweb/federica.querin)
 
-## Federica Querin
+## [Gaia Ghirardi](https://www.google.com/search?client=safari&rls=en&q=Gaia+Ghirardi&ie=UTF-8&oe=UTF-8)
 
-## Marco Cozzani
+## [Ines Gil-Torres](https://www.unibo.it/sitoweb/ines.giltorras)
 
-## Riccardo Omenti
+## [Joseph EngueHart](https://www.enguehard.tf)
+
+## [Michail Raftakis](https://www.unibo.it/sitoweb/michail.raftakis/en)
+
+## [Riccardo Omenti](https://romenti.github.io)
 
 
 # Administrative Support
 ---
-## Walter Toscano
+## Anna Biondino
 
 
 # Previous members
@@ -32,3 +36,7 @@ header:
 ## Benedetta Scotti
 
 ## Andrea Colasurdo
+
+## Giulia Corti
+
+## Marco Cozzani
