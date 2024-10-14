@@ -7,12 +7,12 @@ header:
 ---
 
 
- <img src="assets/images/logo_genpop.png" width="250"  align="middle">
+ <img src="assets/images/logo_genpop.png" width="200"  align="left">
 
 
 GENPOP is a project funded by the European Research Council.
 ### Principal investigator: [Nicola Barban](http://www.nicolabarban.com)
-<img src="assets/images/LOGO_ERC.png" width="200" align="middle">
+<img src="assets/images/LOGO_ERC.png" width="200" align="right">
 
 
 ## Project description
@@ -29,3 +29,6 @@ This is the first comprehensive study that combines historical and contemporaneo
 3. migration.
 
 Existing research focuses on recent factors to explain contemporaneous population trends, missing the long-view of demographic changes. As population processes (fertility and mortality) evolve slowly across generations, we urgently need to adopt a long-term perspective to comprehend demographic phenomena and design effective policies.
+
+
+*Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.*
