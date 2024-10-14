@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "News"
-    url: /_posts/
+    url: /news/
   - title: "Team"
     url: /team/
   - title: "Data and Code"
