@@ -19,12 +19,15 @@ Federica Querin is a postdoctoral fellow at the Department of Statistical Scienc
 ## [Gaia Ghirardi](https://gaiaghirardi.github.io)
 Gaia Ghirardi is a research fellow at the Department of Statistical Sciences "Paolo Fortunati" at the University of Bologna. She is also pursuing her Ph.D. in Social and Political Sciences at the European University Institute (EUI) in Florence. Her research interests are centered around sociogenomics, social stratification, and educational inequalities, with a focus on gene-environment interactions and how these affect educational and health outcomes.
 ## [Ines Gil-Torres](https://www.unibo.it/sitoweb/ines.giltorras)
+Ines is a postdoctoralmfellow working on Cultural legacies of pre-industrial family systems: household structure, family change and values
+
 ## [Joseph Enguehart](https://www.enguehard.tf)
 
 Joseph Enguehard is a PhD candidate in Economics at the École Normale Supérieure (ENS) de Lyon and a research fellow at the University of Bologna in the Department of Statistical Sciences "Paolo Fortunati." His research spans several areas, including political economy, macroeconomic development, and economic history.
 ## [Michail Raftakis](https://www.unibo.it/sitoweb/michail.raftakis/en)
 Michail Raftakis is a postdoctoral fellow at the Department of Statistical Sciences "Paolo Fortunati" at the University of Bologna, where he is involved in the ERC-funded GENPOP project. His academic expertise lies in historical demography, focusing on topics such as mortality transitions, cause-specific mortality, and gender discrimination practices in historical contexts. He earned his Ph.D. from Newcastle University in 2019 and has published widely in academic journals, contributing to fields such as population studies and economic history.
-## [Lorenzo Lionello]()
+## [Lorenzo Lionello](https://www.linkedin.com/in/lorenzo-lionello-researcher/?originalSubdomain=it)
+Lorenzo is a demographer and data scientist working on AI methods of text recognition on historical data sources. He holds MSc in Global Population Health from LSE. He previously worked as data scientist at the European Centre for Disease Prevention and Control (ECDC) and at the UCL Institute of Health Equity.
 ## [Riccardo Omenti](https://romenti.github.io)
 Riccardo Omenti is a PhD student working on  demographic estimation using limited data sources, genealogical data for demographic research, and Bayesian models for historical fertility estimation.
 

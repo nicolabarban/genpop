@@ -21,6 +21,8 @@ GENPOP is a project funded by the European Research Council.
 
 Demographic change and inequality mark modern society, making indispensable the understanding of demographic processes and the planning of effective policies essential. As demographic processes evolve slowly across generations, the combination of historical with current data can help in understanding the process of population evolution. **The EU-funded GENPOP project will investigate long-term demographic processes in family networks from 1800 until today by using existing data on internet-based genealogies.** It will use innovative Big Data and micro-census data to examine fertility and mortality in family networks and diversity between and within families across generations, to understand the impact migration had on the different generations and to delineate the long-term models of assortative mating.
 
+<img src="assets/images/niagara.jpg">
+
 ## Objective
 
 This is the first comprehensive study that combines historical and contemporaneous data to understand how population processes evolve via three interrelated channels:
